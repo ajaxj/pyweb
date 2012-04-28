@@ -1,0 +1,24 @@
+
+Message type:       DEBUG
+Location:           D:\projects\pyweb\flaskr\flaskr.py:62
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-28 00:18:57,986
+Message:			A value for debugging
+
+
+Message type:       WARNING
+Location:           D:\projects\pyweb\flaskr\flaskr.py:63
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-28 00:18:57,986
+Message:			A warning occurred (42 apples)
+
+
+Message type:       ERROR
+Location:           D:\projects\pyweb\flaskr\flaskr.py:64
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-28 00:18:57,986
+Message:			An error occurred
+

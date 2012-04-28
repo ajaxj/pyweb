@@ -1,0 +1,96 @@
+
+Message type:       DEBUG
+Location:           flaskr.py:61
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:29,161
+Message:			A value for debugging
+
+
+Message type:       WARNING
+Location:           flaskr.py:62
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:29,167
+Message:			A warning occurred (42 apples)
+
+
+Message type:       ERROR
+Location:           flaskr.py:63
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:29,170
+Message:			An error occurred
+
+
+Message type:       DEBUG
+Location:           flaskr.py:61
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,042
+Message:			A value for debugging
+
+
+Message type:       WARNING
+Location:           flaskr.py:62
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,042
+Message:			A warning occurred (42 apples)
+
+
+Message type:       ERROR
+Location:           flaskr.py:63
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,043
+Message:			An error occurred
+
+
+Message type:       DEBUG
+Location:           flaskr.py:61
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,845
+Message:			A value for debugging
+
+
+Message type:       WARNING
+Location:           flaskr.py:62
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,846
+Message:			A warning occurred (42 apples)
+
+
+Message type:       ERROR
+Location:           flaskr.py:63
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:30,848
+Message:			An error occurred
+
+
+Message type:       DEBUG
+Location:           flaskr.py:61
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:31,608
+Message:			A value for debugging
+
+
+Message type:       WARNING
+Location:           flaskr.py:62
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:31,611
+Message:			A warning occurred (42 apples)
+
+
+Message type:       ERROR
+Location:           flaskr.py:63
+Module:             flaskr
+Function:           show_entries
+Time:               2012-04-27 17:44:31,612
+Message:			An error occurred
+
