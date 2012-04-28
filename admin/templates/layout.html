@@ -4,13 +4,30 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title></title>
-    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='bootstrap/css/bootstrap.css') }} ">
+    <link rel="stylesheet" href="{{ url_for('static',filename='bootstrap/css/bootstrap-responsive.css') }} ">
 </head>
 <body>
-<div>
+<div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <a class="brand" href="#">Project Admin</a>
+            <div class="nav-collapse">
+                <ul class="nav">
+                    <li class="active">
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">About</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<div class="container">
     {% block body %}
     {% endblock %}
-
 </div>
+
 </body>
 </html>
