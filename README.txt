@@ -12,7 +12,7 @@ couchdemo 目录 用于 couchdb
 
 结构:
 
-pyweb-
+pyweb- 正式
     admin
         -static
         -templates
