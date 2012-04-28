@@ -1,7 +1,26 @@
 ﻿
+
+/********************* 以下是自己临时写的备注 ***************/
+
+D:\projects\github\
+
+flaskr目录 与sqlite3的操作
 flask 目录  用于 flask框架
 
 couchdemo 目录 用于 couchdb
+
+
+结构:
+
+pyweb-
+    admin
+        -static
+        -templates
+        __init__.py
+        views.py
+    home
+        ....
+
 
 http://www.lvchengba.com/province/100165_7
 
