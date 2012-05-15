@@ -4,6 +4,7 @@ from gv import views
 
 __author__ = 'Administrator'
 
+#默认的应用名称
 DEFAULT_APP_NAME = "gv"
 
 
