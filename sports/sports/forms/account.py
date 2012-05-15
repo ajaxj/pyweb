@@ -8,6 +8,7 @@ class LoginForm(Form):
     login = TextField("Username or email address")
     password = PasswordField("Password")
     remember = BooleanField("Remember me")
+    next = HiddenField()
     submit = SubmitField("Login")
 
 class SignupForm(Form):

@@ -3,9 +3,13 @@
 应用的主控制
 """
 import uuid
-from flaskext.script import Manager,Server, prompt_bool
+
+from flask import Flask, current_app
+from flaskext.script import Server, Shell, Manager, Command, prompt_bool
+
 from sports import create_app
 from sports.extensions import db
+
 #添加了模型引用就能直接使用create drop 这些方法
 from sports.models.users import User,UserCode
 __author__ = 'window2003@gmail.com'
@@ -60,5 +64,10 @@ def createcode(role,number):
     return
 
 if __name__ == "__main__":
+    # createall
+    # dropall
+    # runserver
+    # createcode  -r admin
+    # createcode -r member -n 3
     manager.run()
 

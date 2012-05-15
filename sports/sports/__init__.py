@@ -13,8 +13,9 @@ from flask import Flask,request
 from sports.extensions import db
 
 #from flaskext.babel import Babel, gettext as _
-
-from sports import views
+from flaskext.themes import setup_themes
+from sports import views,helpers
+from sports.helpers import render_templates
 
 #默认的flask应用名称
 DEFAULT_APP_NAME = "sports"
@@ -42,6 +43,8 @@ def create_app(config=None, modules=None):
     # TODO 各种配置
     #配置log
     configure_logging(app)
+
+
     #注册模块，用列表实现批量注册
 
     #configure_i18n(app)
@@ -55,7 +58,12 @@ def create_app(config=None, modules=None):
 def configure_extensions(app):
     #SQLAlchemy 装载 这个app的config并且初始数据库
     db.init_app(app)
+    setup_themes(app)
     # todo 还有别的扩展
+
+
+
+
 
 
 #多语言

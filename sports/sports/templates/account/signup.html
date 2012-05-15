@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8"/>
-    <title></title>
-</head>
-<body>
+{%
+    extends "default/layout.html"
+%}
 {% from "macros/_forms.html" import render_errors %}
+{%- block content %}
 <h2 class="title">Sign up</h2>
 <div id="sign">
     <form method="POST" action=".">
@@ -46,5 +43,4 @@
 
 
 </div>
-</body>
-</html>
+{%- endblock %}

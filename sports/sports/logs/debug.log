@@ -11,3 +11,7 @@
 2012-05-15 17:58:12,953 DEBUG: create all database [in D:/projects/github/pyweb/sports/manage.py:24]
 2012-05-15 18:00:41,641 DEBUG: drop all database [in D:/projects/github/pyweb/sports/manage.py:31]
 2012-05-15 18:01:06,032 DEBUG: create all database [in D:/projects/github/pyweb/sports/manage.py:24]
+2012-05-15 22:30:51,062 DEBUG: drop all database [in D:/projects/github/pyweb/sports/manage.py:30]
+2012-05-15 22:31:11,663 DEBUG: create all database [in D:/projects/github/pyweb/sports/manage.py:23]
+2012-05-15 22:55:17,030 DEBUG: drop all database [in manage.py:30]
+2012-05-15 22:55:25,082 DEBUG: create all database [in manage.py:23]
