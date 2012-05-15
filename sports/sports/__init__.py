@@ -2,14 +2,17 @@
 """
     应用的建立，建立在__init__里，便于引用
 """
+
+
 __author__ = 'Administrator'
 import os
 import logging
 from logging.handlers import RotatingFileHandler
 
-from flask import Flask
+from flask import Flask,request
 from sports.extensions import db
 
+#from flaskext.babel import Babel, gettext as _
 
 from sports import views
 
@@ -18,7 +21,8 @@ DEFAULT_APP_NAME = "sports"
 #所有模块路由分配的dict
 DEFAULT_MODULES = (
     (views.frontend,""),    #模块包名，url前缀
-    (views.admin,"/admin")
+    (views.admin,"/admin"),
+    (views.account, "/account"),
 )
 
 #config 配置文件名 modules 一个模块的列表
@@ -34,10 +38,13 @@ def create_app(config=None, modules=None):
     #初始扩展模块
     configure_extensions(app)
 
+
     # TODO 各种配置
     #配置log
     configure_logging(app)
     #注册模块，用列表实现批量注册
+
+    #configure_i18n(app)
     configure_modules(app,modules)
 
     return app
@@ -49,6 +56,18 @@ def configure_extensions(app):
     #SQLAlchemy 装载 这个app的config并且初始数据库
     db.init_app(app)
     # todo 还有别的扩展
+
+
+#多语言
+def configure_i18n(app):
+
+    babel = Babel(app)
+
+    @babel.localeselector
+    def get_locale():
+        accept_languages = app.config.get('ACCEPT_LANGUAGES',['en','zh'])
+        return request.accept_languages.best_match(accept_languages)
+
 
 
 def configure_modules(app,modules):

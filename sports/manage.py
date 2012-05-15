@@ -2,6 +2,7 @@
 """
 应用的主控制
 """
+import uuid
 from flaskext.script import Manager,Server, prompt_bool
 from sports import create_app
 from sports.extensions import db
@@ -29,6 +30,22 @@ def dropall():
         db.drop_all()
         manager.app.logger.debug("drop all database")
 
+
+
+#初始添加数据的方法
+@manager.option('-r','--role',dest='role',default='member')
+@manager.option('-n','--number',dest='number',default=1,type=int)
+def createcode(role,number):
+    codes = []
+    usercodes = []
+    for i in range(number):
+        code = unicode(uuid.uuid4()).split("-")[0]
+        codes.append(code)
+        usercode = UserCode()
+    print "Sign up code:"
+    for i in codes:
+        print i
+    return
 
 if __name__ == "__main__":
     manager.run()
