@@ -7,8 +7,7 @@ from flaskext.script import Manager,Server, prompt_bool
 from sports import create_app
 from sports.extensions import db
 #添加了模型引用就能直接使用create drop 这些方法
-from sports.models.users import User
-#from sports.models.blog import Post
+from sports.models.users import User,UserCode
 __author__ = 'window2003@gmail.com'
 
 
@@ -42,6 +41,19 @@ def createcode(role,number):
         code = unicode(uuid.uuid4()).split("-")[0]
         codes.append(code)
         usercode = UserCode()
+        usercode.code = code
+        if role == 'admin':
+            usercode.role = User.ADMIN
+        elif role == "moderator":
+            usercode.role = User.MODERATOR
+        else:
+            usercode.role = User.MEMBER
+        usercodes.append(usercode)
+    if number == 1:
+        db.session.add(usercode)
+    else:
+        db.session.add_all(usercodes)
+    db.session.commit()
     print "Sign up code:"
     for i in codes:
         print i
