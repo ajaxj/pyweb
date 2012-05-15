@@ -2,13 +2,14 @@
 """
     应用的建立，建立在__init__里，便于引用
 """
+__author__ = 'Administrator'
 import os
 import logging
 from logging.handlers import RotatingFileHandler
 
 from flask import Flask
+from sports.extensions import db
 
-__author__ = 'Administrator'
 
 from sports import views
 
@@ -22,14 +23,17 @@ DEFAULT_MODULES = (
 
 #config 配置文件名 modules 一个模块的列表
 # return app 对象
-def create_app(config=None,modules=None):
+def create_app(config=None, modules=None):
     #如果模块列表为空，就使用上面定义了的默认的
-    if modules in None:
+    if modules is None:
         modules = DEFAULT_MODULES
 
     app = Flask(DEFAULT_APP_NAME)
     #读取config
     app.config.from_pyfile(config)
+    #初始扩展模块
+    configure_extensions(app)
+
     # TODO 各种配置
     #配置log
     configure_logging(app)
@@ -37,6 +41,14 @@ def create_app(config=None,modules=None):
     configure_modules(app,modules)
 
     return app
+
+
+
+#扩展配置
+def configure_extensions(app):
+    #SQLAlchemy 装载 这个app的config并且初始数据库
+    db.init_app(app)
+    # todo 还有别的扩展
 
 
 def configure_modules(app,modules):
