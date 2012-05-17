@@ -4,7 +4,7 @@
 """
 
 
-__author__ = 'Administrator'
+__author__ = 'window2003@gmail.com'
 import os
 import logging
 from logging.handlers import RotatingFileHandler
@@ -14,6 +14,7 @@ from sports.extensions import db
 
 #from flaskext.babel import Babel, gettext as _
 from flaskext.themes import setup_themes
+from flaskext.principal import Principal
 from sports import views,helpers
 from sports.helpers import render_templates
 
@@ -62,6 +63,8 @@ def configure_extensions(app):
     # todo 还有别的扩展
 
 
+def configure_identity(app):
+    principal = Principal(app)
 
 
 

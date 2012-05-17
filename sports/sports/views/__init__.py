@@ -4,3 +4,4 @@ __author__ = 'window2003@gmail.com'
 from .frontend import frontend
 from .admin import admin
 from .account import account
+from .link import  link
