@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Backbone Test</title>
+    <link rel="stylesheet" href="{{ url_for('.static',filename='bootstrap/css/bootstrap.css')}}">
+
+</head>
+<body>
+<div class="well container">
+
+ <div class="well row">
+
+     <div class="span3">
+         <button class="btn btn-success" id="btn1">Model Button</button>
+     </div>
+
+     <div class="span8">
+        <div id="btn1_txt"></div>
+     </div>
+ </div>
+
+
+    <div class="well row">
+
+        <div class="span3">
+            <button class="btn btn-success" id="btn2">View Button</button>
+        </div>
+
+        <div class="span8">
+            <div id="btn2_txt"></div>
+        </div>
+    </div>
+
+
+    <div class="well row">
+
+        <div class="span3">
+            <button class="btn btn-success" id="btn3">Router</button>
+        </div>
+
+        <div class="span8">
+            <div id="btn3_txt"></div>
+        </div>
+    </div>
+
+    <div class="well row">
+
+        <div class="span3">
+            <button class="btn btn-success" id="btn4">Router</button>
+        </div>
+
+        <div class="span8">
+            <div id="btn4_txt"></div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/json2.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/jquery-1.7.2.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/underscore.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/backbone.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='js/bonetest.js')}}"></script>
+
+<script type="text/template" id="search_template">
+    <label><%= search_label %></label>
+    <input type="text" id="search_input" />
+    <input type="button" id="search_button" value="Search" />
+</script>
+
+</body>
+</html>

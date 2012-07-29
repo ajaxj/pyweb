@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Backbone 添加用户</title>
+    <link rel="stylesheet" href="{{ url_for('.static',filename='bootstrap/css/bootstrap.css')}}">
+</head>
+<body>
+
+<div class="container">
+    <button class="btn" id="add-friend">添加朋友</button>
+    <h3>朋友列表</h3>
+    <ul id="friends-list">
+
+    </ul>
+
+    <h3>另一个朋友列表</h3>
+    <ul id="friends-list2">
+
+    </ul>
+
+    <h3>传递视图的列表</h3>
+    <ul id="friends-list3">
+
+    </ul>
+
+</div>
+
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/json2.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/jquery-1.7.2.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/underscore.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='lib/backbone.js')}}"></script>
+<script type="text/javascript" src="{{ url_for('.static',filename='js/bone_adduser.js')}}"></script>
+</body>
+</html>
