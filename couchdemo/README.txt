@@ -3,7 +3,8 @@
 http://couchdbkit.org/docs/django-extension.html
 
 http://code.google.com/p/couchdb-python/
-
+使用couchdb-python的例子:
+http://www.shaxiaozi.com/log/tag/python
 
 
 

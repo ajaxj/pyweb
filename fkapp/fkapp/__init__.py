@@ -27,7 +27,7 @@ def create_app(config=None, modules=None):
     # config
     app.config.from_pyfile(config)
 
-    app.config['COUCHDB_DATABASE'] = 'greeting'
+#    app.config['COUCHDB_DATABASE'] = 'mydb'
 
     configure_extensions(app)
 
