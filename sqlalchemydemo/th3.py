@@ -6,7 +6,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import *
 from sqlalchemy.orm import sessionmaker
 
-engine = create_engine('postgresql://postgres:eeeeeeee@localhost:5432/gv')
+engine = create_engine('postgresql://postgres:eeeeeeee@localhost:5432/fkapp')
 Base = declarative_base()
 Session = sessionmaker(bind=engine)
 
