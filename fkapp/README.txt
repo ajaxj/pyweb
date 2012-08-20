@@ -1,0 +1,2 @@
+fkapp
+     couchdbkit-ext + flask
