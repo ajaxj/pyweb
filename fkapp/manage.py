@@ -8,7 +8,5 @@ manager = Manager(create_app('config.cfg'))
 
 
 
-#app = create_app()
-
-#app.run()
-
+if __name__ == "__main__":
+    manager.run()

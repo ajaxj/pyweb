@@ -1,4 +1,5 @@
-from flask import Module
+from flask import Module,render_template
+
 
 __author__ = 'Administrator'
 
@@ -7,7 +8,6 @@ admin = Module(__name__)
 
 @admin.route("/")
 def index():
-    print "this is admin"
-    return "this is admin"
+    return render_template('admin/index.html')
 
 
