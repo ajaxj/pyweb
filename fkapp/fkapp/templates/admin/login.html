@@ -1,0 +1,31 @@
+{% extends "admin/layout.html" %}
+{% block body %}
+<h2>登录</h2>
+
+<div id="sign">
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        <table cellspacing="0" class="table">
+            <tbody>
+            <tr>
+                <th>{{ form.username.label }}</th>
+                <td>{{ form.username(size=30) }} </td>
+            </tr>
+            <tr>
+                <th>{{ form.password.label }}</th>
+                <td>{{ form.password(size=30) }} </td>
+            </tr>
+            <tr>
+                <th>{{ form.remember.label }}</th>
+                <td>{{ form.remember }}</td>
+            </tr>
+            <tr>
+                <th></th>
+                <td>{{ form.submit }}</td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+
+{% endblock %}
