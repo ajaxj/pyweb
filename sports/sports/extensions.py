@@ -4,6 +4,6 @@
 """
 __author__ = 'window2003@gmail.com'
 # todo 还有其它的模块补充
-from flaskext.sqlalchemy import SQLAlchemy
+from flask.ext.sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()

@@ -13,8 +13,8 @@ from flask import Flask,request
 from sports.extensions import db
 
 #from flaskext.babel import Babel, gettext as _
-from flaskext.themes import setup_themes
-from flaskext.principal import Principal
+# from flaskext.themes import setup_themes
+# from flaskext.principal import Principal
 from sports import views,helpers
 from sports.helpers import render_templates
 
