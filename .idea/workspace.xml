@@ -1,12 +1,605 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
+    <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="开始 fkapp couchdb 五大match比赛">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageImagick.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/checker.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/failed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/img/icon-cog-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/passed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_center.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_leftjpg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1024.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/128.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_18.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_19.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_21.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1536.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/160.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/192.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/2048.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/256.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/3072.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/4096.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/512.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/6f5f025117d273394ea59517d1f08780.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/768.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/96.dhp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Auth/Abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function/Abstract.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AbstractMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AcknowledgeMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Action.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/AdminAction.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/AdvModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/AgentCheckBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/App.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ArrayCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/ArrayList.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AsyncMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Authority.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Base64.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Behavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Util/BinaryStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/BrowserCheckBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/ByteArray.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/CREDITS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Cache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Cache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApachenote.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApc.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheDb.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheEaccelerator.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Cache/CacheFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheMemcache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheRedis.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheShmop.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheSqlite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheWincache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheXcache.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Callback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckActionRouteBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckLangBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckRestRouteBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/CheckRouteBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckUrlExtBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Cities.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/CodeSwitch.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/CommandMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Cookie.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CronRunBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Crypt.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Date.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/DateObject.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Db.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbIbase.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/DbInspector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMongo.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMssql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysqli.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbOracle.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPdo.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPgsql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlsrv.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Debug.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Definition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Definition.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Des.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Deserializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Deserializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Deserializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Dispatcher.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Dispatcher.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ErrorMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Exception.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/FireShowPageTraceBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/GIF.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Hmac.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/HtmlExtractor.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/Http.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request/Http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response/Http.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageGd.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/IndexAction.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Input.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/InputStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Introspector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/IpLocation.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/LocationTemplateBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Log.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Log.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageBody.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageHeader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Method.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Model.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/MongoModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqlResult.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqliResult.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Node.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/OutputStream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Page.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Parameter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Parameter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ParseTemplateBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Prototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Prototype.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/RBAC.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ReadHtmlCacheBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/RelationModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/RemotingMessage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Resource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Action/RestAction.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/ReturnValue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/RobotCheckBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Rsa.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Serializer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Session.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Session/SessionDb.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowPageTraceBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowRuntimeBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/Smarty.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/SmartyBC.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Socket.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Stack.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/Stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/String.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/TagLib.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/TagLib/TagLibCx.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/TagLib/TagLibHtml.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateEase.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateLite.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateMobile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmart.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmarty.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/TestAction.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Think.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/ThinkEditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/ThinkException.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/ThinkImage.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/ThinkPHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/ThinkTemplate.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/TokenBuildBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/TraitsInfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/TypeLoader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/UpgradeNoticeBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/UploadFile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Version.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/View.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/ViewModel.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Widget.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/WriteHtmlCacheBehavior.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Xxtea.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/alias.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/alias.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/amf.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Js/base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/bigint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/block.textformat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/bootstrap.icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/checker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/checker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/checker.phtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.compiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplatedebugger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplateparser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/cli.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/common.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/compat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_if.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.parse_is_expr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.section_start.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.m4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Conf/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.w32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/convention.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/debug.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/debug.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/default_index.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/dispatch_jump.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/en-us.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Function/extend.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/f331a3f0d874c4248458495ef2c2c2d1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Public/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.counter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.cycle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.fetch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_checkboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_radios.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_time.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.mailto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.math.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/handlebars-1.0.rc.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Public/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Index/items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/jquery-1.6.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbars.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/json2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/lite.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/lib/local_storage_adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.capitalize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.date_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.debug_print_var.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.regex_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.spacify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.truncate.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.cat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_words.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.escape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.indent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.lower.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.noprint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.string_format.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.unescape.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.upper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/myplugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/page_trace.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/phprpc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_client.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_date.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/phpunit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/rest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/runtime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.escape_special_chars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.literal_compiler_param.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.make_timestamp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_str_replace.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_unicode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_wordwrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_config_source.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_debug.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_utility.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_custom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_security.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/Public/Css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/tags.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/te_dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.build_dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.config_loader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.destroy_dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.ease.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.fetch_compile_include.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.generate_debug_output.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/test/test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/thin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/think_exception.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/upload_interface.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/web.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/xxtea.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/zh-cn.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1372153890808" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +613,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="pyweb" />
   </component>
@@ -32,8 +626,17 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -60,8 +663,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="886" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -89,16 +692,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,138 +710,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flaskr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flaskr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pyweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fkapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -258,11 +727,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="diff" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="diff" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -291,30 +760,12 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyweb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="MULTIPROCESS" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <module name="pyweb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
@@ -326,6 +777,8 @@
       <option name="SDK_HOME" value="C:/Python27/python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyweb" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
@@ -338,6 +791,29 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyweb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +821,8 @@
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyweb" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
@@ -356,7 +834,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
@@ -412,7 +890,11 @@
       <created>1345457769657</created>
       <updated>1345457769657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="开始 fkapp couchdb 五大match比赛">
+      <created>1372153837954</created>
+      <updated>1372153837954</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -436,20 +918,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20978121" sideWeight="0.99266505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2128788" sideWeight="0.99266505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5007508" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32596686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -481,19 +964,24 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="开始 fkapp couchdb 五大match比赛" />
@@ -507,6 +995,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="修改fkapp作为项目目录" />
@@ -521,9 +1010,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskweb/README.txt">
@@ -533,16 +1020,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/couchdemo/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="160" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="160" selection-end="204" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/fkapp/models/greeting.py">
@@ -554,9 +1037,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="153" selection-end="174" vertical-scroll-proportion="0.17565486">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="153" selection-end="174" vertical-scroll-proportion="0.17565486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sports/sports/views/account.py">
@@ -568,16 +1049,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="171" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="171" vertical-scroll-proportion="-0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="213" selection-end="213" vertical-scroll-proportion="-8.821428">
-          <folding />
-        </state>
+        <state line="13" column="28" selection-start="213" selection-end="213" vertical-scroll-proportion="-8.821428" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sports/sports/views/admin.py">
@@ -619,9 +1096,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/fkapp/config.cfg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08166189">
-          <folding />
-        </state>
+        <state line="3" column="16" selection-start="57" selection-end="57" vertical-scroll-proportion="0.08166189" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/flaskr.py">

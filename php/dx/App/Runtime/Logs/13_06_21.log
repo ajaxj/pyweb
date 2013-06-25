@@ -1,0 +1,216 @@
+[ 2013-06-21T13:54:52+08:00 ] 127.0.0.1 /dx/
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.016204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016905s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.478143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.478323s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.013399s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001232s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017207s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001400s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001532s ]
+
+[ 2013-06-21T13:55:00+08:00 ] 127.0.0.1 /dx/
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010885s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000481s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000959s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001141s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004503s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000726s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2013-06-21T13:58:25+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.175874s ]
+INFO: [ route_check ] --END-- [ RunTime:0.176104s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001694s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000710s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000806s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000771s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000975s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003672s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001044s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001198s ]
+
+[ 2013-06-21T13:58:31+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000722s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000850s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010658s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000520s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000445s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002012s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000587s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000678s ]
+
+[ 2013-06-21T14:00:25+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000881s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001183s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010961s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000544s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000411s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001991s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000528s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2013-06-21T14:00:43+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001192s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001372s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001301s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015339s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002294s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000523s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000341s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003969s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000746s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2013-06-21T14:03:25+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000995s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001116s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013573s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001120s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002341s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000962s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006341s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001419s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001686s ]
+
+[ 2013-06-21T14:04:41+08:00 ] 127.0.0.1 /dx/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001879s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002085s ]
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010640s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010957s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000463s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000594s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000371s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002198s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001054s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2013-06-21T14:08:32+08:00 ] 127.0.0.1 /dx/
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009898s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000900s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000907s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000970s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004901s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002445s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002586s ]
+
+[ 2013-06-21T14:11:51+08:00 ] 127.0.0.1 /dx/
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014846s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015181s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001090s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000877s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000486s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003742s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000939s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2013-06-21T14:19:46+08:00 ] 127.0.0.1 /dx/
+NOTIC: [8] Use of undefined constant GROUP_NAME - assumed 'GROUP_NAME' C:\wamp\www\dx\ThinkPHP\Lib\Core\App.class.php 第 61 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013695s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001091s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001620s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000628s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005221s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001587s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001794s ]
+
