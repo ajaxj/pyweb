@@ -2,144 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\config.cfg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\extensions.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\forms\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\forms\user.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\logs\debug.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\logs\error.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\models\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\models\greeting.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\img\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\bootstrap\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\static\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\layout.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\login.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\users.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\views\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\views\admin.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\views\frontend.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\manage.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\flaskr.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\flaskr.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\flaskr.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\flaskr_tests.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\logfile.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\mylog.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\schema.sql" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\templates\layout.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\templates\login.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\templates\page_not_found.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskr\templates\show_entries.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\app.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\manage.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\config.cfg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\extensions.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\models\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\models\model.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\img\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\bootstrap\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\js\bone_adduser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\js\bonetest.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\lib\backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\lib\jquery-1.7.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\lib\json2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\static\lib\underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\templates\bone\bone_adduser.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\templates\bone\bonetest.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\views\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\views\admin.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\mysite\views\frontend.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\templates\hello.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\templates\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\flaskweb\test\test.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\home\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\runserver.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\manage.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\config.cfg" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\extensions.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\forms\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\forms\account.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\helpers.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\logs\debug.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\models\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\models\blog.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\models\users.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\permissions.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\default\bg_button.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\default\comment.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\default\feed-14x14.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\default\highlight.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\default\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\js\jquery-1.4.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\js\jquery.idTabs.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\static\js\public.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\account\login.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\account\signup.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\admin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\default\info.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\default\layout.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\home\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\templates\macros\_forms.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\test.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\views\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\views\account.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\views\admin.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\views\frontend.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sports\sports\views\link.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\projects.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\test1.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\test2.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\th1.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\th2.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\sqlalchemydemo\th3.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\app.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\blog.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\css\bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\css\bootstrap-responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\img\glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\img\glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\static\bootstrap\js\jquery-1.7.2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\base.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\compose.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\entry.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\home.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\home1.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\main.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\tornadoapp\templates\modules\entry.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373270670883" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373270759023" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -447,7 +315,11 @@
       <created>1373270676008</created>
       <updated>1373270676008</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="branch php dx projects">
+      <created>1373270768474</created>
+      <updated>1373270768474</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -479,12 +351,12 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.99266505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.6723842" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5007508" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32596686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32761577" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
