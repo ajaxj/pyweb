@@ -2,14 +2,617 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageImagick.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageImagick.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/animated-overlay.gif" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/animated-overlay.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.jpg" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.png" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/bg_img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/checker.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/checker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/convention.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/convention.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/failed.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/failed.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings-white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/php/dx/Public/Css/img/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/img/icon-cog-small.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/img/icon-cog-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/info.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/info.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/logo.png" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/logo.png" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/passed.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/passed.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_0.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_0.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_1.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_10.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_10.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_100.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_100.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_101.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_101.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_102.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_102.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_103.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_103.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_104.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_104.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_11.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_11.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_12.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_12.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_13.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_13.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_14.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_14.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_15.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_15.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_16.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_16.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_17.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_17.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_18.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_18.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_19.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_19.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_2.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_20.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_20.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_21.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_21.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_22.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_22.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_23.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_23.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_24.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_24.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_25.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_25.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_26.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_26.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_27.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_27.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_28.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_28.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_29.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_29.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_3.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_3.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_30.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_30.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_31.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_31.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_32.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_32.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_33.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_33.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_34.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_34.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_35.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_35.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_36.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_36.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_37.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_37.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_38.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_38.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_39.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_39.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_4.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_4.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_40.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_40.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_41.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_41.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_42.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_42.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_43.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_43.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_44.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_44.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_45.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_45.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_46.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_46.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_47.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_47.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_48.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_48.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_49.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_49.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_5.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_5.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_50.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_50.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_51.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_51.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_52.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_52.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_53.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_53.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_54.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_54.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_55.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_55.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_56.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_56.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_57.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_57.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_58.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_58.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_59.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_59.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_6.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_6.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_60.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_60.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_61.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_61.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_62.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_62.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_63.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_63.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_64.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_64.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_65.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_65.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_66.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_66.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_67.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_67.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_68.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_68.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_69.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_69.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_7.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_7.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_70.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_70.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_71.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_71.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_72.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_72.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_73.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_73.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_74.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_74.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_75.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_75.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_76.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_76.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_77.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_77.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_78.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_78.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_79.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_79.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_8.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_8.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_80.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_80.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_81.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_81.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_82.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_82.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_83.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_83.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_84.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_84.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_85.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_85.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_86.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_86.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_87.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_87.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_88.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_88.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_89.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_89.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_9.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_9.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_90.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_90.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_91.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_91.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_92.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_92.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_93.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_93.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_94.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_94.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_95.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_95.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_96.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_96.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_97.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_97.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_98.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_98.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_99.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/qq_face/qq_face_99.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_center.jpg" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_center.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_leftjpg.jpg" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/resize_leftjpg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/spacer.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/img/spacer.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_222222_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/warning.gif" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/warning.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/.htaccess" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/.htaccess" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/.htaccess" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1024.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1024.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/128.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/128.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_18.log" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_18.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_19.log" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_19.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_21.log" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Logs/13_06_21.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1536.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/1536.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/160.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/160.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/192.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/192.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/2048.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/2048.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/256.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/256.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/3072.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/3072.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/4096.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/4096.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/512.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/512.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/6f5f025117d273394ea59517d1f08780.php" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/6f5f025117d273394ea59517d1f08780.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/768.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/768.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/96.dhp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams/96.dhp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Auth/Abstract.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Auth/Abstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Abstract.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Abstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function/Abstract.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function/Abstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AbstractMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AbstractMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AcknowledgeMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AcknowledgeMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Action.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Action.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Lib/Action/AdminAction.class.php" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/AdminAction.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/AdvModel.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/AdvModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/AgentCheckBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/AgentCheckBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/App.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/App.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ArrayCollection.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ArrayCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/ArrayList.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/ArrayList.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AsyncMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/AsyncMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Auth.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Auth.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Authority.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Authority.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Base64.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Base64.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Behavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Behavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Util/BinaryStream.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Util/BinaryStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/BrowserCheckBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/BrowserCheckBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/ByteArray.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/ByteArray.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/CREDITS" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/CREDITS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Cache.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Cache.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Cache.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApachenote.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApachenote.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApc.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheApc.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheDb.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheDb.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheEaccelerator.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheEaccelerator.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Cache/CacheFile.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Cache/CacheFile.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheMemcache.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheMemcache.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheRedis.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheRedis.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheShmop.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheShmop.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheSqlite.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheSqlite.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheWincache.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheWincache.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheXcache.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Cache/CacheXcache.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Callback.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckActionRouteBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckActionRouteBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckLangBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CheckLangBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckRestRouteBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckRestRouteBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/CheckRouteBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/CheckRouteBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckUrlExtBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/Behavior/CheckUrlExtBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Cities.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Cities.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/CodeSwitch.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/CodeSwitch.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/CommandMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/CommandMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Constants.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Constants.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ContentReplaceBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Cookie.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Cookie.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CronRunBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/CronRunBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Crypt.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Crypt.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Date.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Date.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/DateObject.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/DateObject.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Db.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Db.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbIbase.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbIbase.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/DbInspector.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/DbInspector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMongo.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMongo.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMssql.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbMssql.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysql.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysql.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysqli.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/Db/DbMysqli.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbOracle.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbOracle.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPdo.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPdo.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPgsql.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbPgsql.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlite.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlite.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlsrv.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Db/DbSqlsrv.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Debug.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Debug.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Definition.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Definition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Definition.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Definition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Des.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Des.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Deserializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Deserializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Deserializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Deserializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Deserializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Deserializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Dispatcher.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Dispatcher.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Dispatcher.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Dispatcher.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ErrorMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/ErrorMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Date/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Exception.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/FireShowPageTraceBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/FireShowPageTraceBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/GIF.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/GIF.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Hmac.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Hmac.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/HtmlExtractor.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/HtmlExtractor.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/Http.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/Http.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request/Http.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request/Http.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response/Http.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response/Http.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/INSTALL" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/INSTALL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageGd.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/Driver/ImageGd.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Lib/Action/IndexAction.class.php" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/IndexAction.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Input.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Input.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/InputStream.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/InputStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Interface.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Interface.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Interface.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Interface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Introspector.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Adobe/Introspector.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/IpLocation.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/IpLocation.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/LICENSE.txt" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/LICENSE" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/LocationTemplateBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/LocationTemplateBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Log.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Log.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Log.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Log.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageBody.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageBody.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageHeader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/MessageHeader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Method.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Method.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Amf/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Thin/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Model.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Model.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/MongoModel.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/MongoModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqlResult.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqlResult.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqliResult.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/MysqliResult.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Node.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Node.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/OutputStream.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/OutputStream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Page.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Page.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Parameter.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Parameter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Parameter.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Parameter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ParseTemplateBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ParseTemplateBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/PluginLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Prototype.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Method/Prototype.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Prototype.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/Prototype.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/RBAC.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/RBAC.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/README.txt" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/README.txt" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/README.txt" afterPath="$PROJECT_DIR$/projects/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/README" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ReadHtmlCacheBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ReadHtmlCacheBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/RelationModel.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/RelationModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/RemotingMessage.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/Messaging/RemotingMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Request.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Resource.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Loader/Autoloader/Resource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Response.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Action/RestAction.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Action/RestAction.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/ReturnValue.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Server/Reflection/ReturnValue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/RobotCheckBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/RobotCheckBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Rsa.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Rsa.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Serializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Serializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Serializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf0/Serializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Serializer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Amf3/Serializer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Session.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Session.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Session/SessionDb.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Session/SessionDb.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowPageTraceBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowPageTraceBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowRuntimeBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/ShowRuntimeBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/Smarty.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/Smarty.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/SmartyBC.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/SmartyBC.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Socket.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Socket.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Stack.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Stack.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/Stream.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/Resource/Stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/String.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/String.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/TagLib.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/TagLib.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/TagLib/TagLibCx.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Driver/TagLib/TagLibCx.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/TagLib/TagLibHtml.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/TagLib/TagLibHtml.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateEase.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateEase.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateLite.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateLite.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateMobile.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateMobile.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmart.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmart.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmarty.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Driver/Template/TemplateSmarty.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Lib/Action/TestAction.class.php" afterPath="$PROJECT_DIR$/php/dx/App/Lib/Action/TestAction.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Think.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Think.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/ThinkEditor.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/ThinkEditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/ThinkException.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/ThinkException.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/ThinkImage.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/ThinkImage.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/ThinkPHP.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/ThinkPHP.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/ThinkTemplate.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Template/ThinkTemplate.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/TokenBuildBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/TokenBuildBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/TraitsInfo.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Value/TraitsInfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/TypeLoader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Amf/Parse/TypeLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/UpgradeNoticeBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Behavior/UpgradeNoticeBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/UploadFile.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Net/UploadFile.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Version.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Zend/Version.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/View.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/View.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/ViewModel.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Model/ViewModel.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Widget.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Core/Widget.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/WriteHtmlCacheBehavior.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lib/Behavior/WriteHtmlCacheBehavior.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Xxtea.class.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Crypt/Xxtea.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/alias.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/alias.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/alias.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Phprpc/alias.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/amf.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/amf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/angular.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/angular.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/base.css" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Js/base.js" afterPath="$PROJECT_DIR$/php/dx/Public/Js/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/bigint.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/bigint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/block.textformat.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/block.textformat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.css" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/bootstrap.icons.css" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/bootstrap.icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.js" afterPath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/php/dx/Public/Css/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/Css/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/categories.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/categories.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/checker.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/checker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/checker.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/checker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/checker.phtml" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/checker.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.compiler.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.compiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.config.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplate.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplatedebugger.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplatedebugger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplateparser.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/SmartTemplate/class.smarttemplateparser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.template.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/class.template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/cli.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/cli.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/common.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/compat.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/compat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_config.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_block.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_custom_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_if.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.compile_if.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.include.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.parse_is_expr.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.parse_is_expr.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.section_start.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/compile.section_start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/config.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.m4" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.m4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Conf/config.php" afterPath="$PROJECT_DIR$/php/dx/App/Conf/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/config.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.w32" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/config.w32" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/debug.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/debug.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/debug.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/debug.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/debug.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/default_index.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/default_index.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/dhparams.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/dialog.html" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/dialog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/dispatch_jump.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/dispatch_jump.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/ember-data.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember-data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/ember.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/ember.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/ember.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/en-us.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/en-us.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Function/extend.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Function/extend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/f331a3f0d874c4248458495ef2c2c2d1.php" afterPath="$PROJECT_DIR$/php/dx/App/Runtime/Cache/GROUP_NAME/f331a3f0d874c4248458495ef2c2c2d1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Public/footer.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Public/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.counter.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.cycle.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.cycle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.fetch.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.fetch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_checkboxes.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_checkboxes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_image.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_options.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_radios.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_radios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_date.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_time.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_select_time.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_table.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.html_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.mailto.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.mailto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.math.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/function.math.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/functions.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/functions.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Cli/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/handlebars-1.0.rc.3.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/handlebars-1.0.rc.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Public/header.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Public/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/index.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Admin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Index/index.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Index/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/index.php" afterPath="$PROJECT_DIR$/php/dx/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/App/Tpl/Index/items.html" afterPath="$PROJECT_DIR$/php/dx/App/Tpl/Index/items.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/jquery-1.6.2.min.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/jquery-1.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery-1.9.1.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery-1.9.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.css" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.min.css" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/css/ui-lightness/jquery-ui-1.10.1.custom.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_ui/js/jquery-ui-1.10.1.custom.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.min.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbar.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbars.css" afterPath="$PROJECT_DIR$/php/dx/Public/lib/jquery_toolbar/jquery.toolbars.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/json2.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/json2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/lite.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/lite.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/lib/local_storage_adapter.js" afterPath="$PROJECT_DIR$/php/dx/Public/lib/local_storage_adapter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.capitalize.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.capitalize.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.date_format.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.date_format.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.debug_print_var.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.debug_print_var.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.escape.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.escape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.regex_replace.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.regex_replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.replace.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.spacify.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.spacify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.truncate.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifier.truncate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.cat.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.cat.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_words.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.count_words.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.default.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.escape.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.escape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.indent.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.indent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.lower.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.lower.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.noprint.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.noprint.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.string_format.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.string_format.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.unescape.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.unescape.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.upper.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.upper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/myplugins.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/myplugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/other.xml" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/page_trace.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/page_trace.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/phprpc.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/phprpc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_client.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_client.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_date.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_date.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_server.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/phprpc_server.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/phpunit.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/phpunit.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pyweb.iml" afterPath="$PROJECT_DIR$/.idea/pyweb.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/readme.md" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Library/ORG/Util/Image/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/readme.txt" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/rest.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/rest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/runtime.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Common/runtime.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.escape_special_chars.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.escape_special_chars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.literal_compiler_param.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.literal_compiler_param.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.make_timestamp.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.make_timestamp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_str_replace.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_str_replace.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_unicode.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_unicode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_wordwrap.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/shared.mb_wordwrap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_config_source.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_config_source.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_data.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_data.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_debug.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_template.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_utility.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_utility.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_custom.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_custom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_security.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/sysplugins/smarty_security.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/Public/Css/style.css" afterPath="$PROJECT_DIR$/php/dx/Public/Css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/style.css" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/styles.css" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/system.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/system.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/tags.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Conf/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/tags.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Lite/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/tags.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/Rest/tags.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/te_dialog.css" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/skins/default/dialog/css/te_dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.build_dir.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.build_dir.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.config_loader.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.config_loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.core.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.core.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.destroy_dir.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.destroy_dir.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.ease.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/EaseTemplate/template.ease.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.fetch_compile_include.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.fetch_compile_include.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.generate_debug_output.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/TemplateLite/internal/template.generate_debug_output.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/test/test.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/test/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/testrunner.xml" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/thin.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Mode/thin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/think_exception.tpl" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Tpl/think_exception.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/upload_interface.js" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/thinkeditor/plugins/upload_interface.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/web.config" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/denied/web.config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/web.config" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Tool/Requirements-Checker/assets/rewrite/web.config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.c" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.h" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/pecl/xxtea/xxtea.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/xxtea.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Extend/Vendor/phpRPC/xxtea.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/zh-cn.php" afterPath="$PROJECT_DIR$/php/dx/ThinkPHP/Lang/zh-cn.php" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373299751234" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373300530093" ignored="false" />
     <file path="/README.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373273175828" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +724,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -128,12 +741,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="diff" />
+    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -170,29 +783,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:/Python27/python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyweb" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,6 +804,29 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python27/python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyweb" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -340,14 +953,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1288" height="774" extended-state="7" />
+    <frame x="-4" y="-4" width="1288" height="774" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761577" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23419774" sideWeight="0.6752827" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2382496" sideWeight="0.6752827" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5007508" order="7" side_tool="true" content_ui="tabs" />
