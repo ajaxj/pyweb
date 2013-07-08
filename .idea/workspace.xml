@@ -2,12 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\css\bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\css\bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\img\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\img\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\bootstrap\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\static\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\templates\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\templates\layout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\admin\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\app.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\samples\couch_test1.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\samples\couch_tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\samples\couchkit_t1.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\samples\s1.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\couchdemo\samples\s2.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\README.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\djapp\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\djapp\settings.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\djapp\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\djapp\wsgi.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\greeting\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\greeting\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\greeting\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\greeting\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\projects\github\ajaxj\pyweb\djapp\manage.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373269625242" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373270562369" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,12 +165,12 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="diff" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="diff" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -177,29 +207,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyweb" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,6 +228,29 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyweb" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -307,7 +337,11 @@
       <created>1372154050512</created>
       <updated>1372154050512</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="branch php dx projects">
+      <created>1373269640981</created>
+      <updated>1373269640981</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -338,7 +372,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22272727" sideWeight="0.99266505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22651514" sideWeight="0.99266505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5007508" order="7" side_tool="true" content_ui="tabs" />
