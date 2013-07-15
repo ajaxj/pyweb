@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/index.html" afterPath="$PROJECT_DIR$/admin/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/templates/layout.html" afterPath="$PROJECT_DIR$/admin/templates/layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pyweb.iml" afterPath="$PROJECT_DIR$/.idea/pyweb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/views.py" afterPath="$PROJECT_DIR$/admin/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/templates/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373857039728" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373861815964" ignored="false" />
     <file path="/views.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373859125508" ignored="false" />
     <file path="/login.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373860946023" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,102 +29,15 @@
     <favorites_list name="pyweb" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.16752137">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="runserver.py" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/runserver.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/admin/views.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="38" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/admin/templates/layout.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="73.28571">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/layout.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="36" column="22" selection-start="923" selection-end="956" vertical-scroll-proportion="-3.2142856">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/admin/__init__.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/admin/templates/login.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="71" column="3" selection-start="2065" selection-end="2272" vertical-scroll-proportion="-3.4642856">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="layout.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/admin/templates/layout.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="102" column="22" selection-start="3639" selection-end="3639" vertical-scroll-proportion="-3.7142856">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/admin/templates/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="41" column="30" selection-start="1842" selection-end="3083" vertical-scroll-proportion="1.8762136">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Push.Settings">
+    <option name="myUpdateMethod" value="REBASE" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -448,7 +357,11 @@
       <created>1345457769657</created>
       <updated>1345457769657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="主项目开始为高尔夫手机后台作准备">
+      <created>1373861820827</created>
+      <updated>1373861820827</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -475,6 +388,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32872927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -490,7 +404,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -538,7 +451,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="开始 fkapp couchdb 五大match比赛" />
+    <option name="LAST_COMMIT_MESSAGE" value="主项目开始为高尔夫手机后台作准备" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -557,18 +470,12 @@
     <MESSAGE value="fkapp 建立与couchdbkit ext 结合的例子" />
     <MESSAGE value="djapp 建立django 与couchdbkit ext 结合的例子" />
     <MESSAGE value="开始 fkapp couchdb 五大match比赛" />
+    <MESSAGE value="主项目开始为高尔夫手机后台作准备" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/flaskr/templates/show_entries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -634,7 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="3" selection-start="2065" selection-end="2272" vertical-scroll-proportion="-3.4642856">
+        <state line="71" column="3" selection-start="2065" selection-end="2272" vertical-scroll-proportion="-6.857143">
           <folding />
         </state>
       </provider>
@@ -646,16 +553,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/layout.html">
+    <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="3639" selection-end="3639" vertical-scroll-proportion="-3.7142856">
+        <state line="36" column="22" selection-start="923" selection-end="956" vertical-scroll-proportion="-6.285714">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/layout.html">
+    <entry file="file://$PROJECT_DIR$/admin/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="22" selection-start="923" selection-end="956" vertical-scroll-proportion="-3.2142856">
+        <state line="41" column="30" selection-start="1842" selection-end="3083" vertical-scroll-proportion="1.8853658">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.6780303">
           <folding />
         </state>
       </provider>
@@ -667,9 +581,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="1842" selection-end="3083" vertical-scroll-proportion="1.8762136">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
