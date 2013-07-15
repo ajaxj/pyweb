@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-z
 __author__ = 'window2003@gmail.com'
 
 from .frontend import frontend
