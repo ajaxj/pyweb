@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block body %}
+<div class="span9">
+          <div class="hero-unit">
+            <h3>所有用户</h3>
+          </div>
+          <div class="row-fluid">
+            <table class="table table-bordered">
+                <tr>
+                    <th></th>
+                </tr>
+                {% for user in users %}
+                <tr>
+                    <td>{{ user.id }}</td>
+                </tr>
+                {% endfor %}
+
+            </table>
+          </div><!--/row-->
+     </div><!--/span-->
+{% endblock %}
