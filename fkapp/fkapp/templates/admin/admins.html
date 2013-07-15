@@ -1,0 +1,31 @@
+{% extends "admin/layout.html" %}
+{% block body %}
+
+<div class="span9">
+
+    <!-- 面包肖 -->
+    <ul style="margin-bottom: 5px;" class="breadcrumb">
+              <li><a href="#">首页</a> <span class="divider">/</span></li>
+              <li><a href="#">Library</a> <span class="divider">/</span></li>
+              <li class="active">Data</li>
+       </ul>
+
+    <div class="row-fluid">
+        <table class="table table-bordered">
+            <tr>
+                <th> id </th> <th> adminname </th><th>adminpass</th>
+            </tr>
+            {% for admin in admins %}
+                <tr>
+                    <td>{{ admin.id }}</td>
+                    <td>{{ admin.adminname }}</td>
+                    <td>{{ admin.adminpass }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+</div>
+
+
+{% endblock %}
+

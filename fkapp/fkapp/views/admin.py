@@ -1,15 +1,33 @@
+# -*- coding:utf-8 -*-
 from flask import Module,render_template,request,flash,redirect
-# from fkapp.models.greeting import User
+
 # from fkapp.forms import LoginForm
+from fkapp.models.model import Admin,Hakuzy
+
 
 __author__ = 'Administrator'
 
 
 admin = Module(__name__)
 
+#首页
 @admin.route("/")
 def index():
     return render_template('admin/index.html')
+
+
+#管理员列表
+@admin.route('/admins')
+def admins():
+    _admins = Admin.query.all()
+    return render_template('admin/admins.html',admins = _admins)
+
+
+@admin.route('/hakuzylist')
+def hakuzylist():
+    _hakuzylist  = Hakuzy.query.limit(10).all()
+    return render_template('admin/hakuzylist.html',hakuzylist=_hakuzylist)
+
 
 
 @admin.route('/users')
@@ -20,6 +38,8 @@ def users():
 @admin.route('/login')
 def login():
     return redirect('/')
+
+
 
 #
 # @admin.route("/users",methods=('GET','POST'))
