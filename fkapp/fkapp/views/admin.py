@@ -2,7 +2,8 @@
 from flask import Module,render_template,request,flash,redirect
 
 # from fkapp.forms import LoginForm
-from fkapp.models.model import Admin,Hakuzy
+from fkapp.models.model import Admin,Hakuzy,HakuzyCat
+
 
 
 __author__ = 'Administrator'
@@ -16,6 +17,21 @@ def index():
     return render_template('admin/index.html')
 
 
+#分类查询,添加
+@admin.route('/categorylist',methods=('GET','POST'))
+def categorylsit():
+    if request.method == 'POST':
+        # TODO 下班
+        _categorylist = None
+        return render_template('admin/categorylist.html',categorylist = _categorylist)
+    else:
+        _categorylist = HakuzyCat.query.all()
+        return render_template('admin/categorylist.html',categorylist = _categorylist)
+
+
+
+
+
 #管理员列表
 @admin.route('/admins')
 def admins():
@@ -23,10 +39,16 @@ def admins():
     return render_template('admin/admins.html',admins = _admins)
 
 
-@admin.route('/hakuzylist')
+@admin.route('/hakuzylist',methods=('GET','POST'))
 def hakuzylist():
-    _hakuzylist  = Hakuzy.query.limit(10).all()
-    return render_template('admin/hakuzylist.html',hakuzylist=_hakuzylist)
+    if request.method == 'POST':
+        # 支付模糊查询
+        _title =  request.form['title']
+        _hakuzylist = Hakuzy.query.filter(Hakuzy.title.like('%'+_title+'%')).all()
+        return render_template('admin/hakuzylist.html',hakuzylist = _hakuzylist)
+    else:
+        _hakuzylist  = Hakuzy.query.limit(10).all()
+        return render_template('admin/hakuzylist.html',hakuzylist=_hakuzylist)
 
 
 

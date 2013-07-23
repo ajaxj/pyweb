@@ -33,3 +33,16 @@ class Hakuzy(db.Model):
 
     def __repr__(self):
         return '<mv %r' % self.title
+
+
+#hakuzy分类
+class HakuzyCat(db.Model):
+    __tablename__ = 'mv_movie_hakuzycat'
+    id = db.Column(db.Integer,primary_key=True)
+    name = db.Column(db.String(45))
+
+    def __init__(self,name):
+        self.name = name
+
+    def __repr__(self):
+        return '<cat %r' % self.name

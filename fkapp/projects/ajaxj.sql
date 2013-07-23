@@ -19,3 +19,12 @@ CREATE TABLE  `ajaxj`.`mv_movie_hakuzy` (
   `urltxt` text,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM AUTO_INCREMENT=54679 DEFAULT CHARSET=utf8 COMMENT='hakuzy';
+
+
+
+DROP TABLE IF EXISTS `ajaxj`.`mv_movie_hakuzycat`;
+CREATE TABLE  `ajaxj`.`mv_movie_hakuzycat` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(45) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=17 DEFAULT CHARSET=utf8;

@@ -21,6 +21,21 @@ def index():
     return render_template('index.html')
 
 
+@app.route('/courses')
+def courses():
+    return render_template("courses.html")
+
+
+@app.route('/teams')
+def teams():
+    return render_template('teams.html')
+
+@app.route('/matchs')
+def matchs():
+    return render_template('matchs.html')
+
+
+
 @app.route('/users')
 def users():
     _users = User.query.all()
