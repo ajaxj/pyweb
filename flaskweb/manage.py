@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 from flask import Flask, current_app
-from flaskext.script import Server, Shell, Manager, Command, prompt_bool
+from flask.ext.script import Server, Shell, Manager, Command, prompt_bool
 
 from mysite import create_app
 from mysite.extensions import db

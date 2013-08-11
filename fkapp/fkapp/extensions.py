@@ -1,8 +1,10 @@
 # -*- coding:utf-8
-__author__ = 'window2003@gmail.com'
+from flask.ext.sqlalchemy import SQLAlchemy
 
-from flaskext.couchdbkit import CouchDBKit
+# couchdb 之前的配置
+# from flaskext.couchdbkit import CouchDBKit
+# __all__=['couchdb']
+# couchdb = CouchDBKit()
+__all__  = ['db']
+db = SQLAlchemy()
 
-__all__=['couchdb']
-
-couchdb = CouchDBKit()

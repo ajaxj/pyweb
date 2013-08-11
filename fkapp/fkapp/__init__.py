@@ -1,3 +1,4 @@
+# -*- codiing:utf-8 -*-
 import os
 import logging
 import datetime
@@ -6,15 +7,18 @@ from logging.handlers import  RotatingFileHandler
 
 
 from flask import Flask, g, session, request, flash, redirect, jsonify, url_for
-from fkapp import views
-from fkapp.extensions import couchdb
+
+# from fkapp.extensions import couchdb
+from extensions import db
+from views import frontend,admin
+
 
 
 DEFAULT_APP_NAME = 'fkapp'
 
 DEFAULT_MODULES = (
-    (views.frontend, ""),
-    (views.admin, "/admin"),
+    (frontend, ""),
+    (admin, "/admin"),
  )
 
 def create_app(config=None, modules=None):
@@ -32,7 +36,6 @@ def create_app(config=None, modules=None):
     configure_extensions(app)
 
     configure_logging(app)
-
     # register module
     configure_modules(app, modules)
 
@@ -42,17 +45,14 @@ def create_app(config=None, modules=None):
 
 
 def configure_extensions(app):
-    # configure extensions
-    couchdb.init_app(app)
-
-
-
+    # couchdb.init_app(app)
+    db.init_app(app)
 
 
 def configure_modules(app, modules):
-
     for module, url_prefix in modules:
         app.register_module(module, url_prefix=url_prefix)
+
 
 
 def configure_logging(app):

@@ -1,2 +1,3 @@
-12.12.09
- 添加了家用台式和笔记本两个拷贝
+主项目是公司的 golfapp 后台
+
+fkapp　项目是 hykyzy为主的mv (之前是couchdbkit-ext + flask　测试　现在改成 mysql)
