@@ -45,6 +45,6 @@ def signup():
 
    # TODO 如果使用themes扩展，使用下面的theme方法，不用写目录，但与flask8支持不好
    #唯一的好处就是能在config里面写目录配置
-   # #extends theme("layout.html")
+   # #extends theme("layout.html.bak")
    # return render_templates("account/signup.html", form=form)
     return render_template("account/signup.html",form=form)

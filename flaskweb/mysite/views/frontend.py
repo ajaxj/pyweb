@@ -7,7 +7,7 @@ frontend = Module(__name__)
 
 @frontend.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html.bak')
 
 
 #***********************

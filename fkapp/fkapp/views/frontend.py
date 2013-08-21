@@ -15,4 +15,4 @@ def index():
     #     date=datetime.datetime.utcnow()
     # )
     # greet.save()
-    return render_template('index.html')
+    return render_template('index.html.bak')

@@ -18,7 +18,7 @@ def index():
     # db.session.commit()
     # users = User.query.all()
     # print len(users)
-    return render_template('index.html')
+    return render_template('index.html.bak')
 
 
 @app.route('/courses')

@@ -14,4 +14,4 @@ frontend = Module(__name__)
 def index(year=None,month=None,day=None,page=1):
     if page<1:page=1
     #page_obj = Post.query.
-    return render_template('home/index.html')
+    return render_template('home/index.html.bak')

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>后台管理</title>
+    <link rel="stylesheet" href="{{ url_for('.static',filename='bootstrap/css/bootstrap.css') }} ">
+    <link rel="stylesheet" href="{{ url_for('.static',filename='bootstrap/css/bootstrap-responsive.css') }} ">
+</head>
+<body>
+
+<div class="container">
+
+<div class="navbar">
+	<div class="navbar-inner">
+            <a class="brand" href="#">管理后台</a>
+            <div class="nav-collapse">
+                <ul class="nav">
+                    <li class="active">
+                        <a href="#">首页</a>
+                    </li>
+                    <li>
+                        <a href="{{ url_for('users')}}">用户</a>
+                    </li>
+                    <li>
+                    	<a href="{{ url_for('login')}}">登录</a>
+                    </li>	
+
+                </ul>
+            </div>
+    </div>
+</div>
+
+
+<!-- content body -->
+
+		{% block body %}
+		{% endblock %}
+
+
+<div>
+
+
+
+
+
+</body>
+</html>

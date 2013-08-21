@@ -15,7 +15,7 @@ def index():
     app.logger.debug("this is debug")
     app.logger.warning('this is warning')
     app.logger.error('this is error')
-    return render_template('index.html')
+    return render_template('index.html.bak')
 
 @app.route('/login')
 def login():pass
