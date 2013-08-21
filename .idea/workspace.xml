@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fkapp/projects/res.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sports/sports/views/account.py" afterPath="$PROJECT_DIR$/sports/sports/views/account.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sports/sports/views/admin.py" afterPath="$PROJECT_DIR$/sports/sports/views/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flaskweb/app.py" afterPath="$PROJECT_DIR$/flaskweb/app.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fkapp/fkapp/config.cfg" afterPath="$PROJECT_DIR$/fkapp/fkapp/config.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fkapp/fkapp/views/frontend.py" afterPath="$PROJECT_DIR$/fkapp/fkapp/views/frontend.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flaskweb/mysite/views/frontend.py" afterPath="$PROJECT_DIR$/flaskweb/mysite/views/frontend.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sports/sports/views/frontend.py" afterPath="$PROJECT_DIR$/sports/sports/views/frontend.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html" afterPath="$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fkapp/manage.py" afterPath="$PROJECT_DIR$/fkapp/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/views.py" afterPath="$PROJECT_DIR$/admin/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\index.html" afterPath="$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html.bak" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\fkapp\fkapp\templates\admin\layout.html" afterPath="$PROJECT_DIR$/fkapp/fkapp/templates/admin/layout.html.bak" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1377076209612" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1377079452012" ignored="false" />
     <file path="/views.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373963747826" ignored="false" />
     <file path="/login.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373860946023" ignored="false" />
     <file path="/layout.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373963955718" ignored="false" />
@@ -71,7 +59,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="223" column="0" selection-start="10527" selection-end="10527" vertical-scroll-proportion="0.035849057">
+            <state line="223" column="0" selection-start="10527" selection-end="10527" vertical-scroll-proportion="0.035984848">
               <folding />
             </state>
           </provider>
@@ -728,7 +716,11 @@
       <created>1376229152632</created>
       <updated>1376229152632</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="在fkapp里面添加了新的admin模板">
+      <created>1377079458964</created>
+      <updated>1377079458964</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -755,6 +747,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -770,7 +763,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -818,7 +810,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加demo 为了 access mongodb cook news" />
+    <option name="LAST_COMMIT_MESSAGE" value="在fkapp里面添加了新的admin模板" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -840,6 +832,7 @@
     <MESSAGE value="主项目开始为高尔夫手机后台作准备" />
     <MESSAGE value="修改fkapp为hukuzy资源" />
     <MESSAGE value="添加demo 为了 access mongodb cook news" />
+    <MESSAGE value="在fkapp里面添加了新的admin模板" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -959,7 +952,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fkapp/fkapp/templates/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="223" column="0" selection-start="10527" selection-end="10527" vertical-scroll-proportion="0.035849057">
+        <state line="223" column="0" selection-start="10527" selection-end="10527" vertical-scroll-proportion="0.035984848">
           <folding />
         </state>
       </provider>
