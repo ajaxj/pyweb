@@ -6,6 +6,7 @@ CREATE TABLE  `bangchubao`.`zhms_caixi` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
   `title` varchar(45) DEFAULT NULL,
   `oldcontent` text,
+  `url` varchar(200) DEFAULT NULL,
   `catestr` varchar(20) DEFAULT NULL,
   `cateid` int(10) unsigned DEFAULT NULL,
   `content` text,
