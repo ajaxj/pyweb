@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1dac8c8-12a7-47bc-a471-65f5ba74c091" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetcherapp/README.txt" afterPath="$PROJECT_DIR$/fetcherapp/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fetcherapp/zhms/launcher.py" afterPath="$PROJECT_DIR$/fetcherapp/zhms/launcher.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\README.txt" afterPath="$PROJECT_DIR$/fetcherapp/README.txt" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\chinacaipu\jiachangcaipu.py" afterPath="$PROJECT_DIR$/fetcherapp/chinacaipu/jiachangcaipu.py" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\chinacaipu\launcher.py" afterPath="$PROJECT_DIR$/fetcherapp/chinacaipu/launcher.py" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\cook\launcher.py" afterPath="$PROJECT_DIR$/fetcherapp/cook/launcher.py" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\t1\app.py" afterPath="$PROJECT_DIR$/fetcherapp/t1/app.py" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\zhms\fetcher.py" afterPath="$PROJECT_DIR$/fetcherapp/zhms/fetcher.py" />
-      <change type="MOVED" beforePath="D:\projects\github\ajaxj\pyweb\demo\zhms\launcher.py" afterPath="$PROJECT_DIR$/fetcherapp/zhms/launcher.py" />
     </list>
     <list id="bd9fea5e-abac-4cc6-bb25-1c9d4d380e11" name="Failed commit: Default" comment="把flaskweb 修改成一个 flask加script结构的" />
     <ignored path="pyweb.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1378365574552" ignored="false" />
+    <file path="/Dummy.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1378365660950" ignored="false" />
     <file path="/views.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373963747826" ignored="false" />
     <file path="/login.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373860946023" ignored="false" />
     <file path="/layout.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373963955718" ignored="false" />
@@ -31,7 +26,7 @@
     <file path="/greeting.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373878177052" ignored="false" />
     <file path="/hakuzylist.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1373881636375" ignored="false" />
     <file path="/app.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1376030500997" ignored="false" />
-    <file path="/launcher.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1378201872593" ignored="false" />
+    <file path="/launcher.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1378367231403" ignored="false" />
     <file path="/res.txt" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1377077337027" ignored="false" />
     <file path="/index.html" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1377078878691" ignored="false" />
     <file path="/fetcher.py" changelist="d1dac8c8-12a7-47bc-a471-65f5ba74c091" time="1378201845625" ignored="false" />
@@ -55,7 +50,35 @@
     <favorites_list name="pyweb" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="launcher.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fetcherapp/zhms/launcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="37" selection-start="855" selection-end="1095" vertical-scroll-proportion="0.69244605">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetcherapp/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fetcher.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fetcherapp/zhms/fetcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="28" selection-start="662" selection-end="669" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -73,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/admin/templates/layout.html" />
-        <option value="$PROJECT_DIR$/admin/models/model.py" />
         <option value="$PROJECT_DIR$/demo/t1/app.py" />
         <option value="$PROJECT_DIR$/demo/cook/launcher.py" />
         <option value="$PROJECT_DIR$/fkapp/fkapp/config.cfg" />
@@ -89,6 +110,8 @@
         <option value="$PROJECT_DIR$/demo/zhms/fetcher.py" />
         <option value="$PROJECT_DIR$/demo/zhms/launcher.py" />
         <option value="$PROJECT_DIR$/demo/README.txt" />
+        <option value="$PROJECT_DIR$/fetcherapp/README.txt" />
+        <option value="$PROJECT_DIR$/fetcherapp/zhms/launcher.py" />
       </list>
     </option>
   </component>
@@ -153,6 +176,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fetcherapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fetcherapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zhms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -501,7 +542,11 @@
       <created>1378344728923</created>
       <updated>1378344728923</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="所有的网站FETCH归进了fetchapp">
+      <created>1378365665849</created>
+      <updated>1378365665849</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -528,6 +573,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32761577" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -543,7 +589,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32608697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.493994" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -591,7 +636,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了cook zhms 火车头数据转MYSQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="所有的网站FETCH归进了fetchapp" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -615,6 +660,7 @@
     <MESSAGE value="添加demo 为了 access mongodb cook news" />
     <MESSAGE value="在fkapp里面添加了新的admin模板" />
     <MESSAGE value="添加了cook zhms 火车头数据转MYSQL" />
+    <MESSAGE value="所有的网站FETCH归进了fetchapp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -692,21 +738,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fetcherapp/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="45" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.6513761">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fetcherapp/zhms/launcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="932" selection-end="932" vertical-scroll-proportion="0.5232975">
+        <state line="18" column="0" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fetcherapp/zhms/fetcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="50" selection-start="3311" selection-end="3311" vertical-scroll-proportion="0.034050178">
+        <state line="20" column="28" selection-start="662" selection-end="669" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fetcherapp/zhms/launcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="37" selection-start="855" selection-end="1095" vertical-scroll-proportion="0.69244605">
           <folding />
         </state>
       </provider>

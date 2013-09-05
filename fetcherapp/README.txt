@@ -1,6 +1,8 @@
 t1 关于读写access 读写mongodb
 
 
+
+
 DROP TABLE IF EXISTS `bangchubao`.`zhms_caixi`;
 CREATE TABLE  `bangchubao`.`zhms_caixi` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
@@ -11,7 +13,11 @@ CREATE TABLE  `bangchubao`.`zhms_caixi` (
   `cateid` int(10) unsigned DEFAULT NULL,
   `content` text,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=536 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+
+
+
+
 
 DROP TABLE IF EXISTS `bangchubao`.`zhms_category`;
 CREATE TABLE  `bangchubao`.`zhms_category` (
