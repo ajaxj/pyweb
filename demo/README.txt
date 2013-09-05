@@ -59,4 +59,20 @@ http://www.zhms.cn/Ms_menu/sjxc/list_130.htm
 
 
 
+http://www.zhms.cn/Ms_menu/tang/  汤类
+http://www.zhms.cn/Ms_menu/tang/list_40.htm
+
+
+http://www.zhms.cn/Ms_menu/liangcai/ 凉菜
+http://www.zhms.cn/Ms_menu/liangcai/list_2.htm
+
+http://www.zhms.cn/Ms_menu/sucai/
+http://www.zhms.cn/Ms_menu/sucai/list_2.htm 素菜
+
+http://www.zhms.cn/Ms_menu/hongpei/ 烘焙
+
+http://www.zhms.cn/Ms_menu/dianxin/ 甜点
+http://www.zhms.cn/Ms_menu/dianxin/list_2.htm
+
+
 
