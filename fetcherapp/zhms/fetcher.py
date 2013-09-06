@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 import MySQLdb
 import win32com.client
+from BeautifulSoup import BeautifulSoup
 
 
 class Fetcher:
@@ -74,6 +75,8 @@ class Fetcher:
                 conn.Close()
         return list
 
+
+    #插入数据到MYSQL
     def insertDataToMySQL(self,data):
         conn = MySQLdb.connect(host="localhost",user="root",passwd="",db="bangchubao",charset="utf8")
         sql = "SELECT * FROM zhms_caixi WHERE title = '%s' and url='%s'" %(data[1],data[3])
@@ -95,6 +98,8 @@ class Fetcher:
                 cur.close()
                 conn.close()
 
+
+    #初始化表,比如分类表
     def initData(self):
         conn = MySQLdb.connect(host="localhost",user="root",passwd="",db="bangchubao",charset="utf8")
         cur = conn.cursor()
@@ -124,3 +129,153 @@ class Fetcher:
         finally:
             cur.close()
             conn.close()
+
+
+    #通过分类取下面的CAIXI ID LIST
+    def getCaixiIdListByCate(self,cate):
+        list = []
+        conn = MySQLdb.connect(host="localhost",user="root",passwd="",db="bangchubao",charset="utf8")
+        sql = "SELECT * FROM zhms_caixi WHERE catestr = '%s'" %(cate)
+        cur = conn.cursor()
+        cur.execute(sql)
+        results = cur.fetchall()
+        for r in results:
+            list.append(r[0])
+        cur.close()
+        conn.close()
+        return list
+
+
+
+    #通过查找ID和更新图片字段
+    def getContentByIdAndUpdateImg(self,id):
+        conn = MySQLdb.connect(host="localhost",user="root",passwd="",db="bangchubao",charset="utf8")
+        sql = "SELECT * FROM zhms_caixi WHERE id = %d" %(id)
+        cur = conn.cursor()
+        cur.execute(sql)
+        result = cur.fetchone()
+
+        # print result[2]
+
+        # 更新字段用的
+        # print result[7], result[7].replace('E:NEWS/B','117')
+        # if result[7] != 'None':
+        #     _img = result[7].replace('E:NEWS/','')
+        #     sql = "UPDATE zhms_caixi SET img = '%s' WHERE id = %d" % (_img,id)
+        #     cur.execute(sql)
+        #     conn.commit()
+
+
+        # 查找Content里面有的IMG,
+        soup = BeautifulSoup(result[2])
+        img = soup.find('img')
+        if img == None:
+            _img = 'None'
+        elif img.get('src') == None:
+            _img = 'None'
+        else:
+             _img = img.get('src').replace('E:NEWS/','')
+
+        sql = "UPDATE zhms_caixi SET img = '%s' WHERE id = %d" % (_img,id)
+        cur.execute(sql)
+        conn.commit()
+        cur.close()
+        conn.close()
+
+
+
+# test 测试修改图片
+if __name__ == '__main__':
+    obj = Fetcher()
+
+    # obj.getContentByIdAndUpdateImg(2943)
+    # exit(1)
+
+    # id_list = obj.getCaixiIdListByCate('chuancai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update chuancai img ok"
+
+    # id_list = obj.getCaixiIdListByCate('yuecai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update yuecai img ok"
+
+    # id_list = obj.getCaixiIdListByCate('xiangcai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update xiangcai img ok"
+    #
+    #
+    # id_list = obj.getCaixiIdListByCate('jingcai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update yuecai img ok"
+
+    # id_list = obj.getCaixiIdListByCate('lucai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update lucai img ok"
+
+    # id_list = obj.getCaixiIdListByCate('mincai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update mincai img ok"
+    #
+    # id_list = obj.getCaixiIdListByCate('huicai')
+    # for id in id_list:
+    #     obj.getContentByIdAndUpdateImg(id)
+    #     print id
+    # print "update huicai img ok"
+
+    #
+
+    id_list = obj.getCaixiIdListByCate('zhecai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update huicai img ok"
+
+
+    id_list = obj.getCaixiIdListByCate('shucai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update shucai img ok"
+
+
+    id_list = obj.getCaixiIdListByCate('ecai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update ecai img ok"
+
+
+    id_list = obj.getCaixiIdListByCate('diancai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update diancai img ok"
+
+
+    id_list = obj.getCaixiIdListByCate('liaocai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update liaocai img ok"
+
+    id_list = obj.getCaixiIdListByCate('sifangcai')
+    for id in id_list:
+        obj.getContentByIdAndUpdateImg(id)
+        print id
+    print "update sifangcai img ok"
+
+
+
+

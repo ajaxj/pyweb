@@ -47,6 +47,61 @@ def main():
     #     obj.insertDataToMySQL(data)
 
 
+    # 取出 121 lucai
+    # datalist5 = obj.fromAccessToList(5)
+    # for data in datalist5:
+    #     obj.insertDataToMySQL(data)
+
+    #取出 122 mincai
+    # datalist6 = obj.fromAccessToList(6)
+    # for data in datalist6:
+    #     obj.insertDataToMySQL(data)
+
+    # #取出 123 huicai
+    # datalist7 = obj.fromAccessToList(7)
+    # for data in datalist7:
+    #     obj.insertDataToMySQL(data)
+    #
+    # #取出 124 zhecai
+    # datalist8 = obj.fromAccessToList(8)
+    # for data in datalist8:
+    #     obj.insertDataToMySQL(data)
+
+    #
+    #取出 125 shucai
+    datalist9 = obj.fromAccessToList(9)
+    for data in datalist9:
+        obj.insertDataToMySQL(data)
+
+
+    #取出 126 ecai
+    datalist10 = obj.fromAccessToList(10)
+    for data in datalist10:
+        obj.insertDataToMySQL(data)
+
+
+    #取出 127 diancai
+    datalist11 = obj.fromAccessToList(11)
+    for data in datalist11:
+        obj.insertDataToMySQL(data)
+
+
+    #取出 128 liaocai
+    datalist12 = obj.fromAccessToList(12)
+    for data in datalist12:
+        obj.insertDataToMySQL(data)
+
+
+    #取出 129 sifangcai
+    datalist13 = obj.fromAccessToList(13)
+    for data in datalist13:
+        obj.insertDataToMySQL(data)
+
+
+
+
+
+
     print "save ok"
 
     #多线程的操作
