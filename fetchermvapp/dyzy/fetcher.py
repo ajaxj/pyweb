@@ -58,7 +58,7 @@ class Fetcher:
     # 17651 17661 17671 17884 17893 18303 18313 19459
     def getContentById(self,id):
         conn = MySQLdb.connect(host="localhost",user="root",passwd="",db="ajaxj1",charset="utf8")
-        sql = "SELECT * FROM mv_dyzy where id > 19459"
+        sql = "SELECT * FROM mv_dyzy where id > 32444"
         cur = conn.cursor()
         cur.execute(sql)
         results = cur.fetchall()
